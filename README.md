@@ -6,8 +6,7 @@ The code is developed by Mohammad Javad Abdollahifard at Tafresh University (mj.
 Programming Language: MATLAB.
 
 Software Requirements: At first, the user MUST download and put the SIFT demo program on the MATLAB search path (http://www.cs.ubc.ca/~lowe/keypoints/siftDemoV4.zip). 
-
-Then you can easily run our code as follows:
+Then download and put the files of this repository on the path and use them as follows:
 
 >>[ci,cc,c]=mps_quantitative_evaluation(ti,Y);
 
