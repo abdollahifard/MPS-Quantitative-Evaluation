@@ -1,4 +1,4 @@
-function [ci,cc]=mps_quantitative_evaluation(ti,Y)
+function [ci,cc,c]=mps_quantitative_evaluation(ti,Y)
 mm(1)=min(ti(:));
 mm(2)=max(ti(:));
 if mm<100
