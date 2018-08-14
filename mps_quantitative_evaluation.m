@@ -1,5 +1,5 @@
 function [ci,cc,c]=mps_quantitative_evaluation(ti,Y)
-% this function compares th realizations in Y with ti and returns their innovation factor, ci, 
+% this function compares the realizations in Y with ti and returns their innovation factor, ci, 
 %    their consistecny factor, cc, and the overall factor c=ci*cc
 mm(1)=min(ti(:));
 mm(2)=max(ti(:));
