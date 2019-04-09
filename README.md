@@ -1,5 +1,5 @@
 # MPS-Quantitative-Evaluation
-These codes could be employed for quantitative evaluation of MPS realizations.
+These codes can be employed for quantitative evaluation of MPS realizations.
 
 The code is developed by Mohammad Javad Abdollahifard at Tafresh University (mj.abdollahi@tafreshu.ac.ir).
 
