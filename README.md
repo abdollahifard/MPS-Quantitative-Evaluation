@@ -19,5 +19,6 @@ ci, cc and c are kx1 vectors showing pattern innovation, consistency and overall
 
 for the 3D version:
 >>[ci,cc,c]=mps_quantitative_evaluation3d(ti,Y);
+
 where ti is the 3D Training Image and Y is a 4D matrix of size lxmxnxk containing k realizations of size lxmxn. 
 ci, cc and c are kx1 vectors showing pattern innovation, consistency and overall evaluation factors. 
